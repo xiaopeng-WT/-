@@ -1,0 +1,3 @@
+﻿  CSVread.cpp
+D:\c++\小组任务\CSVread.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  小组任务.vcxproj -> D:\c++\小组任务\x64\Debug\小组任务.exe
